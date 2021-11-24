@@ -33137,7 +33137,7 @@ o=L.jL("skpark33333@gmail.com",$.KB().vB(16,1.5,0.5),k,k)
 n=C.d.at(76.5)
 m=this.a
 l=t.p
-q=T.OW(M.cm(k,T.a9v(H.a([C.IE,new K.xZ(new L.ks("assets/pilot.png"),60,k),p,o,new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yJ,"\uc0c8\ub85c\ub9cc\ub4e4\uae30",new M.a2J(m),k),new L.f9(C.yN,"\uc5f4\uae30",new M.a2K(m),k),new L.f9(C.yP,"\ucd5c\uadfc \ud30c\uc77c \uc5f4\uae30",new M.a2L(),k),new L.f9(C.yI,"\ub2e4\ub978 \ud328\ud0a4\uc9c0\uc5d0\uc11c \ubd88\ub7ec\uc624\uae30",new M.a2M(),k),new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yT,"\uc800\uc7a5",new M.a2N(),k),new L.f9(C.z4,"\ub2e4\ub978\uc774\ub984 \uc800\uc7a5",new M.a2O(),k),new L.f9(C.yV,"\uc804\uc1a1\ud558\uae30",new M.a2P(),k),new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yH,"\ucf58\ud150\uce20\ubd81 \uc18d\uc131 \ubcc0\uacbd",new M.a2Q(),k)],l),C.am,C.aB),C.m,q,k,k,k,k,k,C.yp,k,k,k),1)
+q=T.OW(M.cm(k,T.a9v(H.a([C.IE,new K.xZ(new L.ks("assets/pilot.PNG"),60,k),p,o,new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yJ,"\uc0c8\ub85c\ub9cc\ub4e4\uae30",new M.a2J(m),k),new L.f9(C.yN,"\uc5f4\uae30",new M.a2K(m),k),new L.f9(C.yP,"\ucd5c\uadfc \ud30c\uc77c \uc5f4\uae30",new M.a2L(),k),new L.f9(C.yI,"\ub2e4\ub978 \ud328\ud0a4\uc9c0\uc5d0\uc11c \ubd88\ub7ec\uc624\uae30",new M.a2M(),k),new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yT,"\uc800\uc7a5",new M.a2N(),k),new L.f9(C.z4,"\ub2e4\ub978\uc774\ub984 \uc800\uc7a5",new M.a2O(),k),new L.f9(C.yV,"\uc804\uc1a1\ud558\uae30",new M.a2P(),k),new Z.n8(32,0.5,32,32,P.aI(n,255,255,255),k),new L.f9(C.yH,"\ucf58\ud150\uce20\ubd81 \uc18d\uc131 \ubcc0\uacbd",new M.a2Q(),k)],l),C.am,C.aB),C.m,q,k,k,k,k,k,C.yp,k,k,k),1)
 r=P.aI(r,186,104,200)
 n=m.d
 n.toString
