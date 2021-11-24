@@ -36436,7 +36436,7 @@ X.a7q.prototype={
 $0(){},
 $S:0}
 S.G5.prototype={
-M(a,b){var s=null,r=H.a([new T.BU(C.x3,C.ad,new U.p1(M.aqW(s,s,new L.lM("Logo.png",s,s)),s,s,s,s,C.X,!1,s),s),new S.hO("Dashboard","icons/menu_dashbord.svg",new S.a0d(),s),new S.hO("Transaction","icons/menu_tran.svg",new S.a0e(),s),new S.hO("Task","icons/menu_task.svg",new S.a0f(),s),new S.hO("Store","icons/menu_store.svg",new S.a0g(),s),new S.hO("Notification","icons/menu_notification.svg",new S.a0h(),s),new S.hO("Profile","icons/menu_profile.svg",new S.a0i(),s),new S.hO("Settings","icons/menu_setting.svg",new S.a0j(),s)],t.E),q=P.aS([null,0],t.LO,t.S)
+M(a,b){var s=null,r=H.a([new T.BU(C.x3,C.ad,new U.p1(M.aqW(s,s,new L.lM("Logo.png",s,s)),s,s,s,s,C.X,!1,s),s),new S.hO("Dashboard","icons/menu_dashbord.svg",new S.a0d(),s),new S.hO("Transaction","icons/menu_tran.svg",new S.a0e(),s),new S.hO("Task","icons/menu_task.svg",new S.a0f(),s),new S.hO("Store","icons/menu_store.svg",new S.a0g(),s),new S.hO("Notification","icons/menu_notification.svg",new S.a0h(),s),new S.hO("Profile","icons/menu_profile.svg",new S.a0i(),s),new S.hO("Settings","assets/icons/menu_setting.svg",new S.a0j(),s)],t.E),q=P.aS([null,0],t.LO,t.S)
 return new Z.BS(new B.Dc(new G.a20(!0,!0,!0,r,q),s,C.r,!1,s,!0,C.wy,!1,s,8,C.an,C.Hg,s,C.aK,s),s)}}
 S.a0d.prototype={
 $0(){},
